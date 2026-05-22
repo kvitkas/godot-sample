@@ -24,7 +24,3 @@ A small Godot 4 prototype showing basic game-development fundamentals: player mo
 - WASD or arrow keys to move
 - Collect coins to increase score
 - Avoid enemies
-
-## Notes
-
-This is intentionally small so it can be reviewed quickly as a work sample. The focus is clean Godot structure and readable GDScript rather than heavy art production.
